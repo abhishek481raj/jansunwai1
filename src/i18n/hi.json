@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "होम",
+    "about": "परिचय",
+    "departments": "विभाग",
+    "track": "शिकायत ट्रैक करें",
+    "statistics": "आंकड़े",
+    "contact": "संपर्क",
+    "login": "लॉगिन",
+    "register": "रजिस्टर"
+  },
+  "hero": {
+    "badge": "आधिकारिक सरकारी पोर्टल",
+    "title": "आपकी आवाज़,",
+    "titleHighlight": "हमारी कार्रवाई",
+    "subtitle": "नागरिक शिकायतें पूर्ण पारदर्शिता के साथ दर्ज करें, ट्रैक करें और हल करें। हर शिकायत महत्वपूर्ण है।",
+    "cta_file": "शिकायत दर्ज करें",
+    "cta_track": "शिकायत ट्रैक करें"
+  },
+  "stats": {
+    "total": "कुल शिकायतें दर्ज",
+    "resolved": "सफलतापूर्वक हल",
+    "avg_time": "औसत समाधान समय",
+    "satisfaction": "नागरिक संतुष्टि",
+    "days": "दिन"
+  },
+  "status": {
+    "pending": "लंबित",
+    "assigned": "असाइन किया गया",
+    "in-progress": "प्रगति में",
+    "resolved": "हल हुआ",
+    "rejected": "अस्वीकृत"
+  },
+  "priority": {
+    "low": "कम",
+    "medium": "मध्यम",
+    "high": "उच्च",
+    "urgent": "अत्यावश्यक"
+  },
+  "form": {
+    "name": "पूरा नाम",
+    "email": "ईमेल पता",
+    "phone": "फ़ोन नंबर",
+    "password": "पासवर्ड",
+    "confirm_password": "पासवर्ड की पुष्टि करें",
+    "submit": "जमा करें",
+    "login": "लॉगिन",
+    "register": "रजिस्टर",
+    "required": "यह फ़ील्ड आवश्यक है"
+  },
+  "auth": {
+    "welcome_back": "वापस स्वागत है",
+    "welcome_sub": "अपने जनसुनवाई खाते में साइन इन करें",
+    "no_account": "नए उपयोगकर्ता?",
+    "register_link": "यहाँ रजिस्टर करें",
+    "have_account": "पहले से पंजीकृत हैं?",
+    "login_link": "यहाँ लॉगिन करें",
+    "demo_access": "त्वरित डेमो पहुँच",
+    "citizen_demo": "नागरिक",
+    "officer_demo": "अधिकारी",
+    "admin_demo": "व्यवस्थापक",
+    "create_account": "खाता बनाएँ",
+    "create_sub": "जनसुनवाई से जुड़ें — शिकायतें दर्ज करें, समाधान ट्रैक करें"
+  },
+  "dashboard": {
+    "dashboard": "डैशबोर्ड",
+    "file_complaint": "शिकायत दर्ज करें",
+    "my_complaints": "मेरी शिकायतें",
+    "track": "ट्रैक",
+    "assigned": "असाइन किया गया",
+    "resolved": "हल किया गया",
+    "all_complaints": "सभी शिकायतें",
+    "officers": "अधिकारी",
+    "departments": "विभाग",
+    "logout": "लॉगआउट",
+    "notifications": "सूचनाएँ",
+    "welcome": "स्वागत"
+  },
+  "errors": {
+    "login_failed": "लॉगिन विफल। कृपया अपना विवरण जांचें।",
+    "register_failed": "रजिस्ट्रेशन विफल। कृपया पुनः प्रयास करें।",
+    "password_mismatch": "पासवर्ड मेल नहीं खाते।",
+    "phone_required": "फ़ोन नंबर आवश्यक है।",
+    "server_error": "सर्वर त्रुटि। कृपया बाद में पुनः प्रयास करें।"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "departments": "Departments",
+    "track": "Track Complaint",
+    "statistics": "Statistics",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register"
+  },
+  "hero": {
+    "badge": "Official Government Portal",
+    "title": "Your Voice,",
+    "titleHighlight": "Our Action",
+    "subtitle": "File, track, and resolve civic grievances with complete transparency. Every complaint matters — we ensure it reaches the right authority.",
+    "cta_file": "File a Complaint",
+    "cta_track": "Track Your Complaint"
+  },
+  "stats": {
+    "total": "Total Complaints Filed",
+    "resolved": "Successfully Resolved",
+    "avg_time": "Avg Resolution Time",
+    "satisfaction": "Citizen Satisfaction",
+    "days": "days"
+  },
+  "status": {
+    "pending": "Pending",
+    "assigned": "Assigned",
+    "in-progress": "In Progress",
+    "resolved": "Resolved",
+    "rejected": "Rejected"
+  },
+  "priority": {
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High",
+    "urgent": "Urgent"
+  },
+  "form": {
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "submit": "Submit",
+    "login": "Login",
+    "register": "Register",
+    "required": "This field is required"
+  },
+  "auth": {
+    "welcome_back": "Welcome Back",
+    "welcome_sub": "Sign in to your JanSunwai account",
+    "no_account": "New user?",
+    "register_link": "Register here",
+    "have_account": "Already registered?",
+    "login_link": "Login here",
+    "demo_access": "Quick Demo Access",
+    "citizen_demo": "Citizen",
+    "officer_demo": "Officer",
+    "admin_demo": "Admin",
+    "create_account": "Create Account",
+    "create_sub": "Join JanSunwai — File grievances, track resolution"
+  },
+  "dashboard": {
+    "dashboard": "Dashboard",
+    "file_complaint": "File Complaint",
+    "my_complaints": "My Complaints",
+    "track": "Track",
+    "assigned": "Assigned",
+    "resolved": "Resolved",
+    "all_complaints": "All Complaints",
+    "officers": "Officers",
+    "departments": "Departments",
+    "logout": "Logout",
+    "notifications": "Notifications",
+    "welcome": "Welcome"
+  },
+  "errors": {
+    "login_failed": "Login failed. Please check your credentials.",
+    "register_failed": "Registration failed. Please try again.",
+    "password_mismatch": "Passwords do not match.",
+    "phone_required": "Phone number is required.",
+    "server_error": "Server error. Please try again later."
+  }
+}
